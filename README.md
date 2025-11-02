@@ -2,6 +2,10 @@
 <h1 align="center">🎨 Miguel Caldas</h1>
 
 <p align="center">
+  <img src="https://media.gifdb.com/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" width="600" alt="Coding animation"/>
+</p>
+
+<p align="center">
   <b>Estudante de TSIW | UI/UX Designer | Front-End Developer</b><br>
   <i>TSIW Student | UI/UX Designer | Front-End Developer</i>
 </p>
@@ -54,8 +58,6 @@ I’m **19 years old**, passionate about **UI/UX design** and **Front-End develo
   </a>
 </p>
 
-
-
 ---
 
 ## 📊 GitHub Stats
@@ -65,8 +67,6 @@ I’m **19 years old**, passionate about **UI/UX design** and **Front-End develo
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelcaldas&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
-
-
 
 <p align="center">
   🌱 Sempre a aprender.   
