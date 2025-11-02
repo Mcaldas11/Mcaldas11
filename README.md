@@ -1,5 +1,5 @@
 <!-- 👋 README de Miguel Caldas -->
-<h1 align="center">Miguel Caldas</h1>
+<h1 align="center">Olá sou o Miguel Caldas</h1>
 
 <p align="center">
   <img src="Happy%20Pixel%20GIF%20by%20SMOL.gif" width="400" alt="Pixel coding animation"/>
