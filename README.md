@@ -64,18 +64,10 @@ I’m **19 years old**, passionate about **UI/UX design** and **Front-End develo
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelcaldas&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
----
 
-## ✨ Frase que me inspira | Quote that inspires me
-
-> _"Design não é apenas o que parece e o que se sente. Design é como funciona."_  
-> _“Design is not just what it looks like and feels like. Design is how it works.”_  
-> — **Steve Jobs**
-
----
 
 <p align="center">
-  🌱 Sempre a aprender. Sempre a criar. Sempre a melhorar.  
+  🌱 Sempre a aprender.   
   <br>
-  <i>Always learning. Always creating. Always improving.</i>
+  <i>Always learning.</i>
 </p>
