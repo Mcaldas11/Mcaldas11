@@ -36,4 +36,42 @@ I’m **19 years old**, passionate about **UI/UX design** and **Front-End develo
 🎯 **Areas of Interest**
 - 🧠 UI/UX Design – user-centered design & prototyping in Figma  
 - 💻 Front-End – modern and responsive web interfaces  
-- 🗄️ Databases – curre
+- 🗄️ Databases – currently learning **MySQL Workbench**
+
+🛠️ **Languages & Tools**
+> HTML • CSS • JavaScript • Python  
+> Git • Figma • VS Code  
+
+---
+
+## 🌐 Conecta-te comigo | Connect with me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/miguel-caldas-7275a8212/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Miguel%20Caldas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:miguelmeniciocaldas@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-miguelmeniciocaldas%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://www.instagram.com/miguelcaldas.9/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@miguelcaldas.9-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=miguelcaldas&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelcaldas&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
+
+---
+
+<p align="center">
+  🌱 Sempre a aprender.   
+  <br>
+  <i>Always learning.</i>
+</p>
