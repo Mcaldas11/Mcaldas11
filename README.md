@@ -48,15 +48,20 @@ I’m **19 years old**, passionate about **UI/UX design** and **Front-End develo
 
 <p align="center">
   <a href="https://www.linkedin.com/in/miguel-caldas-7275a8212/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Miguel%20Caldas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="LinkedIn"/>
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:miguelmeniciocaldas@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-miguelmeniciocaldas%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50" alt="Gmail"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.instagram.com/miguelcaldas.9/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@miguelcaldas.9-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    <img src="https://skillicons.dev/icons?i=instagram" width="50" alt="Instagram"/>
   </a>
 </p>
+
+
+
 
 ---
 
