@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**Mcaldas11/Mcaldas11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Olá, eu sou o Miguel! 
 
-Here are some ideas to get you started:
+🎯 Desenvolvedor Full Stack apaixonado por tecnologia e inovação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Habilidades principais:**
+- Front-end: React, TypeScript, TailwindCSS  
+- Back-end: Node.js, Express, PostgreSQL  
+- Ferramentas: Git, Docker, AWS  
+
+📚 Atualmente estudando: Next.js e Clean Architecture.
+
+💬 Vamos conversar?  
+[![Linkedin Badge](https://img.shields.io/badge/-João_Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/joaosilva)](https://www.linkedin.com/in/miguel-caldas-7275a8212/)  
+[![Gmail Badge](https://img.shields.io/badge/-joao@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joao@gmail.com)](mailto:joao@gmail.com)
