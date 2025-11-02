@@ -15,7 +15,7 @@
 ## 🇵🇹 Sobre mim
 
 Olá! 👋 Sou o **Miguel Caldas**, estudante de **Tecnologias e Sistemas de Informação para a Web (TSIW)** na **ESMAD**, atualmente no **2º ano** da licenciatura.  
-Tenho **19 anos** e sou apaixonado por **Design de Interfaces** e **Desenvolvimento Front-End** — gosto de transformar ideias em experiências digitais intuitivas e bonitas.
+Tenho **19 anos** e sou um admirante por **Design de Interfaces** e **Desenvolvimento Front-End** — gosto de transformar ideias em experiências digitais intuitivas e bonitas.
 
 🎯 **Áreas de interesse**
 - 🧠 UI/UX Design – experiência do utilizador e prototipagem no Figma  
