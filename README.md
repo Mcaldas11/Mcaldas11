@@ -69,7 +69,7 @@ I’m **19 years old**, passionate about **UI/UX design** and **Front-End develo
 
 <p align="center">
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelcaldas&layout=compact&theme=tokyonight" alt="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=miguelcaldas&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
 
 ---
