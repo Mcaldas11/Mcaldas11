@@ -15,7 +15,7 @@
 ## 🇵🇹 Sobre mim
 
 Olá! 👋 Sou o **Miguel Caldas**, estudante de **Tecnologias e Sistemas de Informação para a Web (TSIW)** na **ESMAD**, atualmente no **2º ano** da licenciatura.  
-Tenho **19 anos** e sou um admirante por **Design de Interfaces** e **Desenvolvimento Front-End** — gosto de transformar ideias em experiências digitais intuitivas.
+Tenho **19 anos** e sou um admirante por **Design de Interfaces** e **Desenvolvimento Front-End** 
 
 🎯 **Áreas de interesse**
 - 🧠 UI/UX Design – experiência do utilizador e prototipagem no Figma  
@@ -31,7 +31,7 @@ Tenho **19 anos** e sou um admirante por **Design de Interfaces** e **Desenvolvi
 ## 🇬🇧 About Me
 
 Hey there! 👋 I’m **Miguel Caldas**, a **Web Information Systems and Technologies (TSIW)** student at **ESMAD**, currently in my **2nd year**.  
-I’m **19 years old**, passionate about **UI/UX design** and **Front-End development**, combining creativity with technology to build user-centered digital experiences.
+I’m **19 years old**, passionate about **UI/UX design** and **Front-End development**
 
 🎯 **Areas of Interest**
 - 🧠 UI/UX Design – user-centered design & prototyping in Figma  
@@ -69,7 +69,7 @@ I’m **19 years old**, passionate about **UI/UX design** and **Front-End develo
 
 <p align="center">
   <br/>
-    <img src="https://github-readme-stats.vercel.app/api?username=miguelcaldas&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Mcaldas11&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
 
 ---
