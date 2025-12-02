@@ -23,8 +23,8 @@ Tenho **19 anos** e sou um admirante por **Design de Interfaces** e **Desenvolvi
 - 🗄️ Bases de Dados – atualmente a trabalhar com **MySQL Workbench**  
 
 🛠️ **Tecnologias & Ferramentas**
-> HTML • CSS • JavaScript • Python  
-> Git • Figma • VS Code  
+> HTML • CSS • JavaScript • Python • Vue
+> Git • Figma • VS Code 
 
 ---
 
