@@ -35,17 +35,23 @@ I’m **19 years old**, passionate about **UI/UX design** and **Front-End develo
   </a>
 </p>
 
-
 ---
 
 ## 📊 GitHub Stats
 
-![Mcaldas11's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mcaldas11&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mcaldas11&layout=compact&theme=tokyonight)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mcaldas11&show_icons=true&theme=tokyonight" alt="Miguel's GitHub stats"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mcaldas11&layout=compact&theme=tokyonight" alt="Top Langs"/>
-  <br>
-  <img src="https://streak-stats.demolab.com?user=Mcaldas11&theme=tokyonight" alt="GitHub Streak"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Mcaldas11&show_icons=true&theme=tokyonight"
+    alt="Miguel's GitHub stats"
+  />
+  <br />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mcaldas11&layout=compact&theme=tokyonight"
+    alt="Top Langs"
+  />
+  <br />
+  <img
+    src="https://streak-stats.demolab.com?user=Mcaldas11&theme=tokyonight"
+    alt="GitHub Streak"
+  />
 </p>
