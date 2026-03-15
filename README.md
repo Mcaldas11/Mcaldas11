@@ -57,16 +57,16 @@ I’m **19 years old**, passionate about **UI/UX design** and **Front-End develo
 ## 🌐  Connect with me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/miguel-caldas-7275a8212/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/miguel-caldas-7275a8212/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="45" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="mailto:miguelmeniciocaldas@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <a href="mailto:miguelmeniciocaldas@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="45" alt="Gmail" />
   </a>
   &nbsp;
-  <a href="https://www.instagram.com/miguelcaldas.9/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <a href="https://www.instagram.com/miguelcaldas.9/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="45" alt="Instagram" />
   </a>
 </p>
 
