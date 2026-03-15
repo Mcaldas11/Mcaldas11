@@ -14,7 +14,11 @@ I’m **19 years old**, passionate about **UI/UX design** and **Front-End develo
 
 ### 👨‍💻 Languages & Libraries
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,vue,mysql,mongodb,nodejs,threejs,jupyter,godot" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,vue,mysql,mongodb,nodejs,threejs,godot" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/jupyter/jupyter-original.svg" height="45" alt="Jupyter" />
 </p>
 
 ### 🧰 Software & Tools
