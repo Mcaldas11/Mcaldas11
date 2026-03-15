@@ -43,7 +43,7 @@ I’m **19 years old**, passionate about **UI/UX design** and **Front-End develo
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
   &nbsp;
-  <a href="https://discord.com/users/caldas_9" target="_blank" rel="noreferrer">
+  <a href="[https://discord.com/users/caldas_9](https://discord.com/channels/@me)" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
   </a>
 </p>
