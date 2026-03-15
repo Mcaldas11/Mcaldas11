@@ -24,7 +24,7 @@ I’m **19 years old**, passionate about **UI/UX design** and **Front-End develo
 
 ### 🧰 Software & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,figma,mysql,godot,mongodb" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,figma,mysql,godot,mongodb,arduino,ps,ai,blender" />
 </p>
 
 ---
@@ -42,6 +42,10 @@ I’m **19 years old**, passionate about **UI/UX design** and **Front-End develo
   &nbsp;
   <a href="https://www.instagram.com/miguelcaldas.9/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+  </a>
+  &nbsp;
+  <a href="https://discord.com/users/caldas_9" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
   </a>
 </p>
 
