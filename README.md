@@ -8,15 +8,6 @@
 Hey there! 👋 I’m **Miguel Caldas**, a **Web Information Systems and Technologies (TSIW)** student at **ESMAD**, currently in my **2nd year**.  
 I’m **19 years old**, passionate about **UI/UX design** and **Front-End development**
 
-🎯 **Areas of Interest**
-- 🧠 UI/UX Design – user-centered design & prototyping in Figma  
-- 💻 Front-End – modern and responsive web interfaces  
-- 🗄️ Databases – currently learning **MySQL Workbench**
-
-🛠️ **Languages & Tools**
-> HTML • CSS • JavaScript • Python  
-> Git • Figma • VS Code  
-
 ---
 
 ## 🧩 Skills
@@ -40,8 +31,6 @@ I’m **19 years old**, passionate about **UI/UX design** and **Front-End develo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="Node.js" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="45" alt="Three.js" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/ml5js/ml5-library/main/assets/logo.png" height="45" alt="ml5.js" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="45" alt="Jupyter" />
   &nbsp;
