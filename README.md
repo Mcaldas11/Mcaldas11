@@ -17,11 +17,6 @@ I’m **19 years old**, passionate about **UI/UX design** and **Front-End develo
   <img src="https://skillicons.dev/icons?i=html,css,js,python,vue,mysql,mongodb,nodejs,threejs,jupyter,godot" />
 </p>
 
-<p align="center">
-  <!-- ml5 isn't available on skillicons.dev, so keeping a small logo -->
-  <img src="https://raw.githubusercontent.com/ml5js/ml5-library/main/assets/logo.png" height="40" alt="ml5.js" />
-</p>
-
 ### 🧰 Software & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,git,figma,mysql,godot,mongodb,arduino,ps,ai,blender" />
