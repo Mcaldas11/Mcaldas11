@@ -19,6 +19,52 @@ I’m **19 years old**, passionate about **UI/UX design** and **Front-End develo
 
 ---
 
+## 🧩 Skills
+
+### 👨‍💻 Languages & Libraries
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="45" alt="Vue.js" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="MySQL" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" alt="MongoDB" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="Node.js" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="45" alt="Three.js" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/ml5js/ml5-library/main/assets/logo.png" height="45" alt="ml5.js" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="45" alt="Jupyter" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="45" alt="GDScript" />
+</p>
+
+### 🧰 Software & Tools
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="VS Code" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" alt="Figma" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="MySQL Workbench" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="45" alt="Godot" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" alt="Mongo" />
+</p>
+
+---
+
 ## 🌐  Connect with me
 
 <p align="center">
