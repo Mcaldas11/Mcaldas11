@@ -1,12 +1,11 @@
 <!-- 👋 README de Miguel Caldas -->
-<p align="center">
-  <img src="Happy%20Pixel%20GIF%20by%20SMOL.gif" width="400" alt="Pixel coding animation"/>
-</p>
-
 ## 🇬🇧 About Me
 
 Hey there! 👋 I’m **Miguel Caldas**, a **Web Information Systems and Technologies (TSIW)** student at **ESMAD**, currently in my **2nd year**.  
 I’m **19 years old**, passionate about **UI/UX design** and **Front-End development**
+<p align="center">
+  <img src="Happy%20Pixel%20GIF%20by%20SMOL.gif" width="400" alt="Pixel coding animation"/>
+</p>
 
 ---
 
