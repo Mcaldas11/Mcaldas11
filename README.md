@@ -67,3 +67,9 @@ I’m **19 years old**, passionate about **UI/UX design** and **Front-End develo
     alt="GitHub Streak"
   />
 </p>
+
+<div align="center"
+  ![Profile views](https://komarev.com/ghpvc/?username=Mcaldas11&color=blueviolet)
+
+  >
+![Profile views](https://komarev.com/ghpvc/?username=Mcaldas11&color=blueviolet)
