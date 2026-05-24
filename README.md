@@ -51,7 +51,7 @@ I’m **19 years old**, passionate about **UI/UX design** and **Front-End develo
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=Mcaldas11&show_icons=true&theme=tokyonight"
     alt="Miguel's GitHub stats"
@@ -61,7 +61,7 @@ I’m **19 years old**, passionate about **UI/UX design** and **Front-End develo
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mcaldas11&layout=compact&theme=tokyonight"
     alt="Top Langs"
   />
-  <br />
+  <br /> -->
   <img
     src="https://streak-stats.demolab.com?user=Mcaldas11&theme=tokyonight"
     alt="GitHub Streak"
