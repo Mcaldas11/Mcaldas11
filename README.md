@@ -2,7 +2,7 @@
 ## 🇬🇧 About Me
 
 Hey there! 👋 I’m **Miguel Caldas**, a **Technologies and Web Develomp (TDW)** student at **FMAD**, currently in my **2nd year**.  
-I’m **20 years old**, passionate about **Web Develompment**
+I’m **20 years old**, passionate about **Web Develompment and Develop games/web-games**
 <p align="center">
   <img src="Happy%20Pixel%20GIF%20by%20SMOL.gif" width="400" alt="Pixel coding animation"/>
 </p>
